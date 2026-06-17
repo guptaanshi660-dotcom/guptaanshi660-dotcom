@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Aanshi Gupta 👋
 
-<!--
-**guptaanshi660-dotcom/guptaanshi660-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 B.Sc Graduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 AI & Machine Learning Learner
+
+🐍 Python Enthusiast
+
+📊 Aspiring Data Scientist
+
+## Skills
+
+- Python
+- Pandas
+- NumPy
+- Machine Learning
+- Data Analysis
+- Git & GitHub
+
+## Currently Learning
+
+- Machine Learning
+- Deep Learning
+- Data Visualization
+
+## Connect With Me
+
+- LinkedIn: www.linkedin.com/in/aanshi-gupta-720b4a293
+- Email: guptaanshi660@gmail.com
+
+⭐ Building Data-Driven Solutions
